@@ -6,6 +6,7 @@ Die Datei öffnet die nögigen Tools für den Einsatz im SPOC. Es öffnet die n�
 Die Websiten werden mit dem Standard-Browser geöffnet. Ausnahme: Agent-Portal wird immer in Chrome geöffnet
 
 **Welche Apps/Websiten werden geöffnet?**
+
 Websiten:
 - SRG SRR Workplace
 - SRG SSR GetHelp
